@@ -1,21 +1,61 @@
-# 💫 About Me:
-💻 Java Developer | Core Java | OOPs | Collections | Multithreading<br><br>🌱 Currently learning: Spring Boot, Frontend Development (HTML, CSS, JS)<br><br>🔭 Working on real-world projects to sharpen my development skills<br><br>📚 BCA Final Year | Curious, consistent, and growth-focused<br><br>🤝 Open to collaboration and internships in backend or full-stack roles
+# 👨‍💻 Dhruv Upadhyay
 
+![Java Logo](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWp2a3F0bGJjMGhwb3RlaGRqYjJ6dXNia3g1aGFrczRjMGF3d3AzaiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/WtTnAfZn6aVJfBzlN3/giphy.gif)
 
-## 🌐 Socials:
-[![Instagram ] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Dhruv Upadhyay) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/dhruv987372) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Dhruv1189600) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhruv987372@gmail.com) 
+🎓 **BCA Final Year Student**  
+💻 **Java Backend Developer | Full-Stack Learner**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DHRUVGITUSER&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=DHRUVGITUSER&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUVGITUSER&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DHRUVGITUSER&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I’m a dedicated Java developer skilled in **Spring Boot**, with growing frontend experience in **React, HTML, CSS, and JavaScript**. I’m passionate about building scalable applications and exploring clean architecture, RESTful APIs, and modern UI/UX design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=DHRUVGITUSER&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ⚙️ Tech Stack
+
+![Tech Stack](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2eGZ4Y2gyYW00ZDVqZmZrOHZ3M2F3YW9oY25pM3Jwa3Nsa3oyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3IWyGkC0rsazTi/giphy.gif)
+
+- **Backend:** Java, Spring Boot, REST API  
+- **Frontend:** HTML, CSS, JavaScript, React  
+- **Tools:** Git, GitHub, IntelliJ, VS Code  
+- **Databases:** MySQL, PostgreSQL (Basics)  
+
+---
+
+## 🚀 Projects & Learning
+
+![Code Flow](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3AyY3Z1d3FqbmVwdGxmbTZhdnR6ZHZrYzhjcmlkY2J3aHQwMW9rayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l41lVsYDBC0UVQJCE/giphy.gif)
+
+- Building full-stack apps with Spring Boot + React  
+- Strengthening API design & backend structure  
+- Exploring advanced Java features and system design  
+- Learning component-based architecture in frontend  
+
+---
+
+## 📍 Career Goals
+
+![Growth](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWt1NmFkYmVkMmE2OHh3czhhZzM1cXpiemMzdHFkZWRpMnpyZXRpeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/SWoSkN6DxTszqIKEqv/giphy.gif)
+
+- Secure a backend developer role or internship  
+- Open-source Java project contributions  
+- Build impactful, scalable web solutions  
+- Improve frontend proficiency and UI quality  
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-upadhyay-051b76303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/invites/contact/?igsh=1ctefd7oz2hd0&utm_content=ifdagn3)
+[![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Dhruv1189600?t=jdHJwy6AFXSttRBFXSaZkg&s=09)
+
+---
+
+## 💬 Final Note
+
+![Developer Vibe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVydmttZ3UwZ2R3aGVuaDV4em5vbXU5dHdmejVoYWJoZmJ1a3M3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH6CqY8V92RLO/giphy.gif)
+
+Thanks for visiting my profile!  
+I’m always open to **tech collaborations**, **Java-based projects**, or just connecting with other passionate developers.  
+Let’s build something great together.
+
+---
