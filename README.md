@@ -11,7 +11,7 @@ I’m a dedicated Java developer skilled in **Spring Boot**, with growing fronte
 
 ## ⚙️ Tech Stack
 
-![Tech Stack](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXZ2eGZ4Y2gyYW00ZDVqZmZrOHZ3M2F3YW9oY25pM3Jwa3Nsa3oyNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/gw3IWyGkC0rsazTi/giphy.gif)
+![Tech Stack]
 
 - **Backend:** Java, Spring Boot, REST API  
 - **Frontend:** HTML, CSS, JavaScript, React  
@@ -52,7 +52,7 @@ I’m a dedicated Java developer skilled in **Spring Boot**, with growing fronte
 
 ## 💬 Final Note
 
-![Developer Vibe](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGVydmttZ3UwZ2R3aGVuaDV4em5vbXU5dHdmejVoYWJoZmJ1a3M3YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kH6CqY8V92RLO/giphy.gif)
+![Developer Vibe]
 
 Thanks for visiting my profile!  
 I’m always open to **tech collaborations**, **Java-based projects**, or just connecting with other passionate developers.  
